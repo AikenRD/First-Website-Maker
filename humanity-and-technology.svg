@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-labelledby="title description">
+  <title id="title">Humanity and technology shaping the future</title>
+  <desc id="description">A person stands between the present world and a technology-shaped future, connected by a path of ideas.</desc>
+  <rect width="900" height="420" fill="#f3f0e8"/>
+  <circle cx="150" cy="115" r="58" fill="#e6b85c"/>
+  <path d="M0 300 Q140 220 280 300 T560 300 T900 280 V420 H0 Z" fill="#73956f"/>
+  <path d="M410 420 Q430 315 450 250 Q470 315 500 420 Z" fill="#d6c39c"/>
+  <circle cx="450" cy="190" r="30" fill="#59483f"/>
+  <path d="M420 225 Q450 205 480 225 L500 315 H400 Z" fill="#34506f"/>
+  <path d="M430 315 L410 390 M470 315 L495 390" stroke="#40352f" stroke-width="12" stroke-linecap="round"/>
+  <path d="M420 250 L365 290 M480 250 L535 290" stroke="#40352f" stroke-width="10" stroke-linecap="round"/>
+  <rect x="650" y="120" width="150" height="190" rx="12" fill="#d8e5ed" stroke="#34506f" stroke-width="5"/>
+  <circle cx="690" cy="165" r="18" fill="#527fa3"/>
+  <circle cx="755" cy="165" r="18" fill="#527fa3"/>
+  <path d="M690 183 V225 H755 V183 M722 225 V265 M690 265 H755" fill="none" stroke="#527fa3" stroke-width="7"/>
+  <path d="M525 180 C570 120 595 120 640 170" fill="none" stroke="#9b5f45" stroke-width="5" stroke-dasharray="10 10"/>
+  <circle cx="555" cy="145" r="10" fill="#9b5f45"/>
+  <circle cx="600" cy="135" r="10" fill="#9b5f45"/>
+  <text x="150" y="365" text-anchor="middle" font-family="sans-serif" font-size="25" fill="#253426">Present</text>
+  <text x="725" y="365" text-anchor="middle" font-family="sans-serif" font-size="25" fill="#253426">Possible Future</text>
+</svg>
